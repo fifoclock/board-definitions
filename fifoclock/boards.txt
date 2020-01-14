@@ -1,0 +1,16 @@
+menu.cpu=Processor
+
+################################################################################
+
+fifoclock.name=FIFO CLock (ATtiny84, 5V, 8Mhz)
+
+fifoclock.upload.using=micronucleusprog
+fifoclock.upload.protocol=usb
+fifoclock.upload.tool=micronucleus
+fifoclock.upload.maximum_size=6012
+
+fifoclock.build.mcu=attiny84
+fifoclock.build.f_cpu=8000000L
+fifoclock.build.board=FIFOCLOCK
+fifoclock.build.core=arduino:arduino
+fifoclock.build.variant=tiny14
