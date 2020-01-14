@@ -14,8 +14,8 @@
           "category": "Contributed",
           "url": "https://github.com/fifoclock/board-definitions/releases/download/v1.0.0/fifoclock-1.0.0.zip",
           "archiveFileName": "fifoclock-1.0.0.zip",
-          "checksum": "SHA-256:f53fa1f9d65e18cacdcbcbf43a0305fa1467d1393169e92d4822c66858582bef",
-          "size": "3275",
+          "checksum": "SHA-256:7e881dfc1d2bb5543e4ef5a47797a79b64ac0da557f4ce5a120224930c8f9cd4",
+          "size": "3277",
           "boards": [
             {
               "name": "FIFO Clock"
