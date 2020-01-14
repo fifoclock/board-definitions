@@ -2,7 +2,7 @@ menu.cpu=Processor
 
 ################################################################################
 
-fifoclock.name=FIFO CLock (ATtiny84, 5V, 8Mhz)
+fifoclock.name=FIFO Clock (ATtiny84, 5V, 8Mhz)
 
 fifoclock.upload.using=micronucleusprog
 fifoclock.upload.protocol=usb
