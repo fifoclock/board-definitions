@@ -2,7 +2,7 @@
   "packages":
   [
     {
-      "name": "FIFO Clock",
+      "name": "fifoclock",
       "maintainer": "Eddie Zhou",
       "websiteURL": "https://fifoclock.github.io",
       "platforms":
@@ -14,8 +14,8 @@
           "category": "Contributed",
           "url": "https://github.com/fifoclock/board-definitions/releases/download/v1.0.0/fifoclock-1.0.0.zip",
           "archiveFileName": "fifoclock-1.0.0.zip",
-          "checksum": "SHA-256:c44a68f055dd3d4d145f6e8e6000e39f77f08cf3cfa19c36c3f371c95621f428",
-          "size": "3277",
+          "checksum": "SHA-256:f53fa1f9d65e18cacdcbcbf43a0305fa1467d1393169e92d4822c66858582bef",
+          "size": "3275",
           "boards": [
             {
               "name": "FIFO Clock"
