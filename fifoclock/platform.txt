@@ -1,5 +1,5 @@
 name=FIFO Clock Boards
-version=1.0.0
+version=1.0.1
 
 # Default "compiler.path" is correct, change only if you want to overidde the initial value
 compiler.path={runtime.tools.avr-gcc.path}/bin/

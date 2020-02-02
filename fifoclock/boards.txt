@@ -7,7 +7,7 @@ fifoclock.name=FIFO Clock (ATtiny84, 5V, 8Mhz)
 fifoclock.upload.using=micronucleusprog
 fifoclock.upload.protocol=usb
 fifoclock.upload.tool=micronucleus
-fifoclock.upload.maximum_size=6012
+fifoclock.upload.maximum_size=6650
 
 fifoclock.build.mcu=attiny84
 fifoclock.build.f_cpu=8000000L

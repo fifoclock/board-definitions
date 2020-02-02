@@ -7,6 +7,30 @@
       "websiteURL": "https://fifoclock.github.io",
       "platforms":
       [
+        
+        {
+          "name": "FIFO Clock",
+          "architecture": "avr",
+          "version": "1.0.1",
+          "category": "Contributed",
+          "url": "https://github.com/fifoclock/board-definitions/releases/download/v1.0.1/fifoclock-1.0.1.zip",
+          "archiveFileName": "fifoclock-1.0.1.zip",
+          "checksum": "SHA-256:14fae32680c9ab76903026f5f8e2b182a207bca92afdfa5f9c32976bfa6e343e",
+          "size": "3276",
+          "boards": [
+            {
+              "name": "FIFO Clock"
+            }
+          ],
+          "toolsDependencies":
+          [
+            {
+              "packager": "arduino",
+              "name": "avr-gcc",
+              "version": "4.8.1-arduino5"
+            }
+          ]
+        },
         {
           "name": "FIFO Clock",
           "architecture": "avr",
